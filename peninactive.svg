@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="55px" viewBox="0 0 60 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inactive" transform="translate(19.000000, 0.000000)">
+            <g transform="translate(11.000000, 209.000000) scale(-1, 1) rotate(-180.000000) translate(-11.000000, -209.000000) " id="Pencil-blue">
+                <g transform="translate(11.000000, 209.000000) scale(-1, 1) translate(-11.000000, -209.000000) ">
+                    <g id="point" transform="translate(0.000000, 369.000000)">
+                        <path d="M4.84207399,27.1478216 C6.84724039,18.0985478 10.8575732,0 10.8575732,0 L22,49 L0,49 L4.84207399,27.1478216 Z" id="Triangle-15" fill="#F3B7AA" transform="translate(11.000000, 24.500000) scale(-1, 1) rotate(-180.000000) translate(-11.000000, -24.500000) "></path>
+                        <polygon id="Triangle-15-Copy-2" fill="#E1A89C" transform="translate(5.428787, 24.500000) scale(-1, 1) rotate(-180.000000) translate(-5.428787, -24.500000) " points="10.8575732 0 5.5 49 0 49"></polygon>
+                        <polygon id="Triangle-15-Copy-3" fill="#E1A89C" transform="translate(16.428787, 24.500000) rotate(180.000000) translate(-16.428787, -24.500000) " points="21.8575732 3.55271368e-15 16.5 49 11 49"></polygon>
+                        <polygon id="Triangle-15-Copy" fill="#4A4A4A" transform="translate(10.974756, 37.863636) scale(-1, 1) rotate(-180.000000) translate(-10.974756, -37.863636) " points="10.9420621 26.7272727 15.95 49 5.99951172 49"></polygon>
+                    </g>
+                    <g id="wood">
+                        <rect id="Rectangle-387" fill="#3A72B4" x="0" y="0.104829545" width="22" height="368.89517"></rect>
+                        <path d="M0,0.104829545 L5.5,0.104829545 L5.5,369 L0,369 L0,0.104829545 Z M16.5,0.104829545 L22,0.104829545 L22,369 L16.5,369 L16.5,0.104829545 Z" id="Rectangle-387-Copy" fill="#30629C" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

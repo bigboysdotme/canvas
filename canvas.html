@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>canvas-sketch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+
+
+<body>
+    <canvas id="canvasCtx" width="300px" height="300px"></canvas>
+
+   
+    <button id="eraser" class="eraser"> <img id="rubber" src="rubberinactive.svg" alt=""></button>
+   
+    <button id ="pen" class="pen"><img id="pencil" src="penactive.svg" alt=""></button>
+
+
+    <ol>
+        <li id="black" class="black coloractive"></li>
+        <li id="yellow" class="yellow"></li>
+        <li id="red" class="red"></li>
+        <li id="green" class="green"></li>
+        <li id="blue" class="blue"></li>
+    </ol>
+
+    <button id="del" class="del">clear all</button>
+    <button id="save" class="save">save</button>
+
+    <script src="main.js"></script>
+  
+</body>
+
+</html>

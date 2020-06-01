@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+
+
+#canvasCtx {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: white;
+}
+
+
+
+ol{
+
+    position: fixed;
+    bottom:0;
+    right:0;
+    margin:0;
+    clear: both;
+    
+}
+
+li{
+    border-radius: 50%;
+    width:24px;
+    height:24px;
+    list-style: none;
+    margin-bottom:10px;
+    margin-right:15px;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 3px #edeae9;
+    float: left;
+}
+
+.black{
+    background: black;
+}
+
+.yellow{
+    background:yellow;
+}
+
+.red{
+    background:red;
+}
+
+.green{
+    background:green;
+}
+
+.blue{
+    background:blue;
+}
+
+.coloractive{
+
+    width:24px;
+    height:24px;
+  box-shadow: 0 0 0 2px black;
+
+}
+
+.pen> img{
+    position: fixed;
+    bottom: 0;
+    left:20px;
+}
+
+.eraser > img{
+    position: fixed;
+    bottom: 0;
+    left:80px;
+}
+
+.del{
+    position: fixed;
+    top: 10px;
+    left:10px;
+    color:#057aff;
+    font-size:14px;
+    font-weight: bold;
+}
+
+.save{
+    position: fixed;
+    top: 10px;
+    right:10px;
+    color:#057aff;
+    font-size:14px;
+    font-weight: bold;
+}
+
+button{
+    border: 0px;
+    background:white;
+   
+}
+
+
+
+
